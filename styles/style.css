@@ -44,7 +44,6 @@
   width: 140px;
 }
 
-
 .address {
   justify-self: end;
   max-width: 236px;
@@ -52,7 +51,6 @@
   font-style: normal;
   line-height: 24px;  
 }
-
 
 .cover {
   position: relative;
@@ -209,7 +207,6 @@
   margin-top: 6px;
   margin-left: 65px;
   font-size: 20px;
-
 }
 
 .about {
@@ -243,7 +240,6 @@
 
 .about__column {
   margin-top: 97px;
-
 }
 
 .about__text {
