@@ -258,8 +258,7 @@
   justify-items: center;
   justify-content: center;
   gap: 165px;
-  margin: auto;
-  margin-top: 180px;
+  margin: 180px auto 82px;
 }
 
 .footer__menu {
